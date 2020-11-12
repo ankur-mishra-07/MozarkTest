@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MozarkTest</string>
+    <string name="loading">Loading...</string>
+    <string name="noUser">No User Found !!</string>
+</resources>
